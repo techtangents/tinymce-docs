@@ -43,6 +43,7 @@
   - url: "custom-toolbar-menu-item"
   - url: "file-picker"
   - url: "local-upload"
+  - url: "tinysheets"
 
 - url: "configure"
   pages:
